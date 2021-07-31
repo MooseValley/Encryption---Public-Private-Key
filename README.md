@@ -6,4 +6,7 @@ decrypted using the public key.
 
 Tinkering, exploring, ....
 
-Moose
+**Moose OMalley**
+<br>Moose's Software Valley - Established 29-Jul-1996
+<br>https://moosevalley.github.io/
+
